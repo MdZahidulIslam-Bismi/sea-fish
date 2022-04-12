@@ -1,0 +1,20 @@
+
+.cart-item-heading{
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    column-gap: 150px;
+}
+.cart-img{
+    margin-left: 20px;
+}
+.cart-name{
+    margin-left: 10px;
+}
+.cart-quantity{
+    margin-left: 0;
+}
+.review{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}

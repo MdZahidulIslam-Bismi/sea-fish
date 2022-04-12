@@ -1,0 +1,19 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.search-container{
+    background-color: #4684b6;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 10px;
+}
+
+
+.cart-containr{
+    color: aqua;
+    background-color: rgb(64, 74, 201);
+    min-height: 300px;
+}
